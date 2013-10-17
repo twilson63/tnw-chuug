@@ -11,6 +11,7 @@ if (!src) { console.log('src file required'); return; }
 
 fs.readFile(src, function(err, data) {
   var urls = data.toString().split('\n');
+  urls.pop();
   async.map(urls, count, function(err, results) {
     console.dir(results[0]);
     console.timeEnd('wc');
