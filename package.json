@@ -1,0 +1,20 @@
+{
+  "name": "chuug",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "hyperquest": "~0.1.8",
+    "underscore": "~1.5.2",
+    "event-stream": "~3.0.16",
+    "async": "~0.2.9"
+  }
+}
