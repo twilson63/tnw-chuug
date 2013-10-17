@@ -1,5 +1,4 @@
 http://www.textfiles.com/etext/FICTION/aesop11.txt
-http://www.textfiles.com/etext/FICTION/anonymous-beowulf-543.txt
 http://www.textfiles.com/etext/FICTION/bells.txt
 http://www.textfiles.com/etext/FICTION/callwild
 http://www.textfiles.com/etext/FICTION/crito.txt
@@ -18,3 +17,4 @@ http://www.textfiles.com/etext/FICTION/the_mast
 http://www.textfiles.com/etext/FICTION/silas_marner
 http://www.textfiles.com/etext/FICTION/sea_wolf
 http://www.textfiles.com/etext/FICTION/r_crusoe
+http://www.textfiles.com/etext/FICTION/anonymous-beowulf-543.txt
